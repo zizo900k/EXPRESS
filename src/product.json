@@ -1,0 +1,53 @@
+{
+  "products": [
+    { "id": 1, "name": "Smartphone X", "price": 10.5, "category": "Electronics", "stock": 50 },
+    { "id": 2, "name": "Laptop Pro", "price": 12.0, "category": "Electronics", "stock": 40 },
+    { "id": 3, "name": "Table Lamp", "price": 8.99, "category": "Home", "stock": 60 },
+    { "id": 4, "name": "Sofa Modern", "price": 15.0, "category": "Home", "stock": 30 },
+    { "id": 5, "name": "Sneakers Sport", "price": 22.5, "category": "Fashion", "stock": 25 },
+
+    { "id": 6, "name": "Hoodie Urban", "price": 18.0, "category": "Fashion", "stock": 45 },
+    { "id": 7, "name": "Science Book", "price": 9.5, "category": "Books", "stock": 100 },
+    { "id": 8, "name": "History Book", "price": 11.0, "category": "Books", "stock": 80 },
+    { "id": 9, "name": "Smart TV 4K", "price": 55.0, "category": "Electronics", "stock": 10 },
+    { "id": 10, "name": "Gaming Console", "price": 35.0, "category": "Electronics", "stock": 15 },
+
+    { "id": 11, "name": "Chocolate Bar", "price": 6.5, "category": "Food", "stock": 200 },
+    { "id": 12, "name": "Biscuit Pack", "price": 7.0, "category": "Food", "stock": 180 },
+    { "id": 13, "name": "Milk Bottle", "price": 5.0, "category": "Food", "stock": 220 },
+    { "id": 14, "name": "Office Chair", "price": 14.99, "category": "Home", "stock": 35 },
+    { "id": 15, "name": "Office Desk", "price": 19.99, "category": "Home", "stock": 28 },
+
+    { "id": 16, "name": "Wireless Headphones", "price": 45.0, "category": "Electronics", "stock": 12 },
+    { "id": 17, "name": "Smart Watch", "price": 49.99, "category": "Electronics", "stock": 8 },
+    { "id": 18, "name": "Novel Book", "price": 13.5, "category": "Books", "stock": 90 },
+    { "id": 19, "name": "Comic Book", "price": 16.0, "category": "Books", "stock": 70 },
+    { "id": 20, "name": "Leather Jacket", "price": 25.0, "category": "Fashion", "stock": 20 },
+
+    { "id": 21, "name": "Denim Jeans", "price": 27.5, "category": "Fashion", "stock": 18 },
+    { "id": 22, "name": "Running Shoes", "price": 30.0, "category": "Fashion", "stock": 22 },
+    { "id": 23, "name": "Mineral Water", "price": 4.99, "category": "Food", "stock": 300 },
+    { "id": 24, "name": "Orange Juice", "price": 6.0, "category": "Food", "stock": 250 },
+    { "id": 25, "name": "Rice Bag", "price": 8.0, "category": "Food", "stock": 230 },
+
+    { "id": 26, "name": "Digital Camera", "price": 60.0, "category": "Electronics", "stock": 5 },
+    { "id": 27, "name": "Drone Camera", "price": 70.0, "category": "Electronics", "stock": 4 },
+    { "id": 28, "name": "Coffee Table", "price": 20.0, "category": "Home", "stock": 33 },
+    { "id": 29, "name": "Bookshelf", "price": 18.75, "category": "Home", "stock": 38 },
+    { "id": 30, "name": "Wall Clock", "price": 22.0, "category": "Home", "stock": 26 },
+
+    { "id": 31, "name": "Math Workbook", "price": 10.0, "category": "Books", "stock": 95 },
+    { "id": 32, "name": "English Dictionary", "price": 12.5, "category": "Books", "stock": 85 },
+    { "id": 33, "name": "Winter Coat", "price": 28.0, "category": "Fashion", "stock": 19 },
+    { "id": 34, "name": "Sport T-Shirt", "price": 32.0, "category": "Fashion", "stock": 14 },
+    { "id": 35, "name": "Casual Sneakers", "price": 36.0, "category": "Fashion", "stock": 12 },
+
+    { "id": 36, "name": "Sugar Pack", "price": 3.99, "category": "Food", "stock": 400 },
+    { "id": 37, "name": "Green Tea", "price": 4.5, "category": "Food", "stock": 380 },
+    { "id": 38, "name": "Magazine", "price": 9.99, "category": "Books", "stock": 110 },
+    { "id": 39, "name": "Story Collection", "price": 14.0, "category": "Books", "stock": 75 },
+    { "id": 40, "name": "Bed Mattress", "price": 26.0, "category": "Home", "stock": 24 },
+
+    { "id": 41, "name": "Curtain Set", "price": 29.0, "category": "Home", "stock": 20 }
+  ]
+}
